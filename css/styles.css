@@ -1,7 +1,27 @@
+
+/*temp stuff*/
+
+
+
+
 .carousel-indicators li {
   border: solid;
   color: black;
+  text-indent: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  padding-top: 30px;
+  margin-left: 10px;
+
 }
+
+
+
+
+
+
+
 
 p {
   background-color: black;
@@ -20,9 +40,64 @@ p {
 }
 
 #mycarousel {
-  margin-top: 20vh;
+  margin-top: 22vh;
 }
 
 .find {
   background-color: red;
 }
+
+/*end of temp*/
+
+
+
+/*carousel-indicators start*/
+
+.carousel-indicators {
+  color: black;
+  top: -170px;
+  bottom: inherit;
+}
+
+.carousel-indicators li {
+  border: none;
+  color: black;
+  text-indent: 0;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  padding-top: 25px;
+  margin-left: 10px;
+  font-family: monospace;
+
+}
+
+.carousel-indicators .active {
+    width: 165px;
+    height: 165px;
+    padding-top: 27px;
+    margin-left: 10px;
+}
+
+h3, h2 {
+  margin: 0;
+}
+
+
+.carousel-indicators li:nth-of-type(1) {
+  background-color: #FFFF00;
+
+}
+
+.carousel-indicators li:nth-of-type(2) {
+  background-color: #2FBEED;
+}
+
+
+.carousel-indicators li:nth-of-type(3) {
+  background-color: red;
+  padding-top: 30px;
+}
+
+
+/*carousel-indicators end*/
