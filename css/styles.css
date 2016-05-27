@@ -1,8 +1,13 @@
 
+<<<<<<< HEAD
 /*temp stuff begin*/
 
 
 /*temp stuff end*/
+=======
+
+
+>>>>>>> project-modals
 
 
 
@@ -11,6 +16,7 @@
 
 
 
+<<<<<<< HEAD
 /*carousel start*/
 
 p {
@@ -32,11 +38,18 @@ p {
 #mycarousel {
   margin-top: 22vh;
 }
+=======
+
+
+
+
+>>>>>>> project-modals
 
 
 
 
 
+<<<<<<< HEAD
 /*carousel-indicators start*/
 
 .carousel-indicators {
@@ -89,3 +102,82 @@ h3, h2 {
 
 
 /*carousel-indicators end*/
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*modal stuff begin here*/
+
+.modal-header h1  {
+  display: inline-block;
+}
+
+.modal-body p {
+  padding: 20px;
+  background-color: orange;
+  position: relative;
+}
+
+.modal-button-holder {
+  text-align:center;
+}
+
+
+/*modal stuff ends here*/
+>>>>>>> project-modals
