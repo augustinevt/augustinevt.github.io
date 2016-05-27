@@ -1,0 +1,28 @@
+.carousel-indicators li {
+  border: solid;
+  color: black;
+}
+
+p {
+  background-color: black;
+  opacity: 0.5;
+  padding: 15px;
+}
+
+.project-item {
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 0;
+}
+
+.row-buffer {
+  margin-bottom: 80px;
+}
+
+#mycarousel {
+  margin-top: 20vh;
+}
+
+.find {
+  background-color: red;
+}
