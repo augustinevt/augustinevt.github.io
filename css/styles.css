@@ -2,6 +2,25 @@
 
 /*temp stuff begin*/
 
+.august p {
+
+  background-color: white;
+
+}
+
+
+img.blog {
+  width: 200px;
+  height: 200px;
+}
+
+div.blog {
+  border: solid;
+}
+
+div.blog p {
+  background-color: white;
+}
 
 /*temp stuff end*/
 
@@ -98,3 +117,6 @@ h3, h2 {
 
 
 /*modal stuff ends here*/
+#solid {
+  background-color: black;
+}
