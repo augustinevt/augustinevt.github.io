@@ -1,20 +1,8 @@
 
-/*temp stuff*/
+/*temp stuff begin*/
 
 
-
-
-.carousel-indicators li {
-  border: solid;
-  color: black;
-  text-indent: 0;
-  width: 150px;
-  height: 150px;
-  border-radius: 100%;
-  padding-top: 30px;
-  margin-left: 10px;
-
-}
+/*temp stuff end*/
 
 
 
@@ -22,6 +10,8 @@
 
 
 
+
+/*carousel start*/
 
 p {
   background-color: black;
@@ -43,11 +33,7 @@ p {
   margin-top: 22vh;
 }
 
-.find {
-  background-color: red;
-}
 
-/*end of temp*/
 
 
 
@@ -83,6 +69,8 @@ h3, h2 {
   margin: 0;
 }
 
+/*carousel-indicators start*/
+/*carousel end*/
 
 .carousel-indicators li:nth-of-type(1) {
   background-color: #FFFF00;
