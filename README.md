@@ -1,10 +1,13 @@
-### by # Augustine von Trapp
 
----
+
+
 
 # Portfolio Site!
+#### by Augustine von Trapp
+---
+## Description:
 
-### this is a site where users can explore different project I have worked on.
+#### This is a site where users can view and explore different project I have worked on.
 
 ---
 ## instructions
@@ -15,7 +18,7 @@
 
 * drag index.html into browser icon
 
-### or you can visit this [link](https://github.com/augustinevt/augustinevt.github.io)
+### or you can visit this [link](http://augustinevt.github.io/personal-portfolio)
 ---
 
-#Copyright (c) 2016 Copyright Holder All Rights Reserved.
+#### Copyright (c) 2016 Copyright Holder All Rights Reserved.
