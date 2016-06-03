@@ -10,7 +10,7 @@
 #### This is a site where users can view and explore different project I have worked on.
 
 ---
-## instructions
+## User Instructions:
 
 * clone repo
 
@@ -18,7 +18,16 @@
 
 * drag index.html into browser icon
 
-### or you can visit this [link](http://augustinevt.github.io/personal-portfolio)
+* or you can visit this [link](http://augustinevt.github.io/personal-portfolio)
+---
+## Technologies:
+
+* CSS
+
+* HTML
+
+* BOOTSTRAP
 ---
 
-#### Copyright (c) 2016 Copyright Holder All Rights Reserved.
+
+Copyright (c) 2016 Copyright Holder All Rights Reserved.

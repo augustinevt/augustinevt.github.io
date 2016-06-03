@@ -124,3 +124,11 @@ h3, h2 {
 #solid {
   background-color: black;
 }
+
+.styled {
+  color: orange;
+}
+
+.styled-off {
+  color: grey;
+}
