@@ -18,15 +18,17 @@
 
 * drag index.html into browser icon
 
-* or you can visit this [link](http://augustinevt.github.io/personal-portfolio)
+#### or you can visit this [link!](http://augustinevt.github.io/personal-portfolio)
 ---
 ## Technologies:
+
+* BOOTSTRAP
 
 * CSS
 
 * HTML
 
-* BOOTSTRAP
+
 ---
 
 
